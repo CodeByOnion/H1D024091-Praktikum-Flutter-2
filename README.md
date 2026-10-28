@@ -1,17 +1,5 @@
-# flutter_mobile
+# Praktikum Mobile - Flutter 
 
-A new Flutter project.
+##Raihan Dwi Ananda Harvian | H1D024091 | Shift KRS : D | Shift DC : G
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1080" height="2400" alt="WhatsApp Image 2026-10-28 at 23 00 28" src="https://github.com/user-attachments/assets/c43b1bd1-ad8c-4756-90e3-2d855334cb6f" />
